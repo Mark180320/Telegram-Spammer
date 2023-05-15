@@ -9,8 +9,8 @@ from pyrogram.errors import PeerFlood, AuthKeyUnregistered, InputUserDeactivated
     SessionRevoked, ChatAdminRequired, ChatWriteForbidden, UserBannedInChannel, ChannelPrivate, AuthKeyDuplicated, \
     SlowmodeWait, UserDeactivated, UserDeactivatedBan
 
-api_id = 24651572
-api_hash = '6f5caff63de033cb0725399b5961ad7d'
+api_id = 0
+api_hash = 'api_hash'
 
 
 async def for_dialogs(app, text, time_sleep, archivr_chats: bool):
