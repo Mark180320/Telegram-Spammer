@@ -1,5 +1,6 @@
 # Telegram-Spammer
 A simple spammer made on Pyrogram
+
 Features:
 - Sends messages to chats and contacts;
 - Archives sent messages;
